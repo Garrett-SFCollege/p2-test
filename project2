@@ -1,0 +1,20 @@
+fullName = "Garrett Morgan"
+major = "Information Technology"
+myAnswer = "C++ was annoying to work with and python uses logic I find easier to understand"
+
+number1 = 49
+number2 = 39
+
+sumValue = number1 + number2
+diffValue = number1 - number2
+productValue = number1 * number2
+quotientValue = number1 / number2
+remainValue = number1 % number2
+
+print(f"My name is {fullName}. My major is {major}. I\’m most interested in this class because {myAnswer}.")
+print(f"\nnumber1 + number2 = {sumValue}")
+print(f"\nnumber1 - number2 = {diffValue}")
+print(f"\nnumber1 * number2 = {productValue}")
+print(f"\nnumber1 / number2 = {quotientValue}")
+print(f"\nnumber1 % number2 = {remainValue}")
+print("\nThis is the end of the program!")
